@@ -1,0 +1,28 @@
+{
+	"name": "Node-Gulp",
+	"version": "0.0.1",
+	"description": "Boiler plate code for node-gulp-sass projects",
+	"developer": "Arun Pottekat",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:darkrun95/Node-Gulp-BoilerPlate.git"
+	},
+	"license": "Apache-2.0",
+	"dependencies": {
+		"mime": "~1.2.7"
+	},
+	"devDependencies": {
+		"beepbeep": "^1.2.1",
+		"browser-sync": "^2.18.12",
+		"gulp": "^3.9.1",
+		"gulp-concat": "^2.6.1",
+		"gulp-imagemin": "^3.3.0",
+		"gulp-jshint": "^2.0.4",
+		"gulp-nodemon": "^2.2.1",
+		"gulp-plumber": "^1.1.0",
+		"gulp-sass": "^3.1.0",
+		"gulp-sourcemaps": "^2.6.0",
+		"gulp-uglify": "^3.0.0",
+		"jshint": "^2.9.4"
+	}
+}
